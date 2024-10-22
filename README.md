@@ -1,0 +1,2 @@
+# DinheiroALL
+Script Dinheiro ALL
